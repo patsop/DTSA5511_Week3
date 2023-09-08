@@ -1,3 +1,3 @@
-# DTSA5011_Week3
+# DTSA5511_Week3
 
-Files, models, training histories and jupyter notebook in ipynb and html format for week3 of the course DTSA_5011
+Files, models, training histories and jupyter notebook in ipynb and html format for week3 of the course DTSA_5511
